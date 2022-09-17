@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="42mm"
+   viewBox="0 0 32 42"
+   version="1.1"
+   id="svg974"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Arhlètes.svg"
+   inkscape:export-filename="C:\Users\BOUBA LABOBE Janvier\Desktop\DIXIADES\flames olympique.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview976"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="4.0718557"
+     inkscape:cx="103.63825"
+     inkscape:cy="68.887509"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-7"
+     inkscape:window-y="-7"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs971" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path118"
+       style="fill:#008000;fill-rule:evenodd;stroke-width:0.207961"
+       d="M 30.621389,3.7243205 A 16.929409,17.006712 0 0 0 13.692189,20.731034 16.929409,17.006712 0 0 0 28.022063,37.533109 17.827489,16.928599 88.21179 0 1 17.846457,21.222994 17.827489,16.928599 88.21179 0 1 31.448212,3.744991 16.929409,17.006712 0 0 0 30.621389,3.7243191 Z" />
+    <path
+       style="fill:#333333;fill-opacity:1;stroke:#333333;stroke-width:0.26007px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 12.540288,25.493949 c 0,0 -1.391459,-5.02471 -5.7977442,-5.720442 -4.4062844,-0.695727 -3.014826,11.982002 -3.014826,11.982002 0,0 0.309213,-8.348749 3.4013423,-9.044476 3.0921299,-0.69573 5.4112279,2.782916 5.4112279,2.782916 z"
+       id="path4242" />
+    <path
+       style="fill:#ffff00;fill-opacity:1;stroke:#ffff00;stroke-width:0.26007px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 0.71289148,6.1681396 C 0.16388721,6.3239424 5.4205074,7.174278 8.5725844,11.07779 c 3.1520786,3.903517 4.1996126,10.860209 4.1996126,10.860209 0,0 1.528552,-19.0190425 -12.05930552,-15.7698594"
+       id="path4296"
+       sodipodi:nodetypes="cscc" />
+    <ellipse
+       style="fill:#ff0000;fill-opacity:1;stroke:#333333;stroke-width:0.26007;stroke-opacity:0.624601"
+       id="path5654"
+       cx="16.865406"
+       cy="0.38222769"
+       rx="2.5896583"
+       ry="4.0970716"
+       transform="rotate(20.430641)" />
+  </g>
+</svg>
